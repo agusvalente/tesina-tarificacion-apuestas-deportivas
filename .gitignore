@@ -1,0 +1,17 @@
+# Archivos intermedios y salidas que generan los programas al ejecutarse
+*.rds
+grafico_*.png
+tabla_*.csv
+Rplots.pdf
+
+# R y RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

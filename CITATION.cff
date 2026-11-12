@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Si usás este código o la tesina, citalos de la siguiente manera."
+type: software
+title: "Tarificación bajo incertidumbre en apuestas deportivas: margen, sesgos y calibración frente a un modelo actuarial de goles"
+authors:
+  - family-names: Valente
+    given-names: Agustín
+    affiliation: "Facultad de Ciencias Económicas, Universidad de Buenos Aires"
+date-released: 2026-10-19
+repository-code: "https://github.com/agusvalente/tesina-tarificacion-apuestas-deportivas"
+license: MIT
+keywords:
+  - ciencias actuariales
+  - apuestas deportivas
+  - modelo de Poisson
+  - Dixon-Coles
+  - rating Elo
+  - favourite-longshot bias
+  - calibración probabilística
+  - Brier Score
+  - Premier League
+  - R
+preferred-citation:
+  type: thesis
+  thesis-type: "Tesina de grado (Actuario)"
+  title: "Tarificación bajo incertidumbre en apuestas deportivas: margen, sesgos y calibración frente a un modelo actuarial de goles"
+  authors:
+    - family-names: Valente
+      given-names: Agustín
+  institution:
+    name: "Facultad de Ciencias Económicas, Universidad de Buenos Aires"
+    city: "Buenos Aires"
+    country: AR
+  year: 2026
+  url: "https://github.com/agusvalente/tesina-tarificacion-apuestas-deportivas"
